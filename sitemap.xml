@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://pokehacks.cn/link/index.html</loc>
+    <loc>https://pokehacks.cn/archives/f89afde3.html</loc>
     
     <lastmod>2025-12-08</lastmod>
     
@@ -20,7 +20,16 @@
   </url>
   
   <url>
-    <loc>https://pokehacks.cn/archives/f89afde3.html</loc>
+    <loc>https://pokehacks.cn/categories/index.html</loc>
+    
+    <lastmod>2025-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://pokehacks.cn/link/index.html</loc>
     
     <lastmod>2025-12-08</lastmod>
     
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://pokehacks.cn/tags/index.html</loc>
-    
-    <lastmod>2025-12-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://pokehacks.cn/categories/index.html</loc>
     
     <lastmod>2025-12-05</lastmod>
     
