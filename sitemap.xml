@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pokehacks.cn/archives/35541771.html</loc>
+    
+    <lastmod>2025-12-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pokehacks.cn/archives/95a09f6.html</loc>
     
     <lastmod>2025-12-09</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://pokehacks.cn/archives/5da2eb43.html</loc>
+    <loc>https://pokehacks.cn/archives/a302ef56.html</loc>
     
     <lastmod>2025-12-09</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://pokehacks.cn/archives/a302ef56.html</loc>
+    <loc>https://pokehacks.cn/archives/5da2eb43.html</loc>
     
     <lastmod>2025-12-09</lastmod>
     
@@ -101,14 +110,14 @@
 
   
   <url>
-    <loc>https://pokehacks.cn/categories/%E5%9B%BD%E5%86%85%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://pokehacks.cn/categories/%E5%8E%9F%E7%89%88%E6%B1%89%E5%8C%96/</loc>
     <lastmod>2025-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://pokehacks.cn/categories/%E5%8E%9F%E7%89%88%E6%B1%89%E5%8C%96/</loc>
+    <loc>https://pokehacks.cn/categories/%E5%9B%BD%E5%86%85%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2025-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
