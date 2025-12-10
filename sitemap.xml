@@ -121,7 +121,7 @@
 
   <url>
     <loc>https://pokehacks.cn/</loc>
-    <lastmod>2025-12-09</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,7 +129,7 @@
   
   <url>
     <loc>https://pokehacks.cn/tags/GBA/</loc>
-    <lastmod>2025-12-09</lastmod>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -137,15 +137,15 @@
 
   
   <url>
-    <loc>https://pokehacks.cn/categories/%E5%8E%9F%E7%89%88%E6%B1%89%E5%8C%96/</loc>
-    <lastmod>2025-12-09</lastmod>
+    <loc>https://pokehacks.cn/categories/%E5%9B%BD%E5%86%85%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://pokehacks.cn/categories/%E5%9B%BD%E5%86%85%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2025-12-09</lastmod>
+    <loc>https://pokehacks.cn/categories/%E5%8E%9F%E7%89%88%E6%B1%89%E5%8C%96/</loc>
+    <lastmod>2025-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
