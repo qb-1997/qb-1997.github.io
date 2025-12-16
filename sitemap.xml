@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pokemonapp.edgeone.cool/hospital/index.html</loc>
+    
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://pokemonapp.edgeone.cool/link/index.html</loc>
     
     <lastmod>2025-12-15</lastmod>
@@ -121,7 +130,7 @@
 
   <url>
     <loc>https://pokemonapp.edgeone.cool/</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,7 +138,7 @@
   
   <url>
     <loc>https://pokemonapp.edgeone.cool/tags/GBA/</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -138,14 +147,14 @@
   
   <url>
     <loc>https://pokemonapp.edgeone.cool/categories/%E5%9B%BD%E5%86%85%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://pokemonapp.edgeone.cool/categories/%E5%8E%9F%E7%89%88%E6%B1%89%E5%8C%96/</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
